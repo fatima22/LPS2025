@@ -1,4 +1,6 @@
-# LPS2025
+🎙️ Thünen & BLE Contributions at Living Planet Symposium 2025
+This page highlights the presentations, posters, and demos contributed by Thünen Institute researchers and our BLE partner at the Living Planet Symposium 2025 (23–27 June, Vienna)
+Browse the table below for session details, timings, and direct links to the program pages!
 
 
 | Type      | Presenter           | Title                                                                                                    | Session                                                                                          | Date & Time                      | Program Link                                                                                                  |
